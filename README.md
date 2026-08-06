@@ -8,3 +8,4 @@ To update an image, replace the file (same name) and push — live sites pick it
 
 - `pavingcortez/` — Sleeping Ute Paving & Chip Seal Co. demo (pavingcortez.webalator.com)
 - `poolservice/` — Sonoran Blue Pool Co. demo, Chandler AZ (poolservice.webalator.com)
+- `sandandgravel/` — Red Cliffs Sand & Gravel Co. demo, St. George UT (sandandgravel.webalator.com)
