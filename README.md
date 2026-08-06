@@ -7,3 +7,4 @@ Stable URLs: `https://drofoneseller.github.io/webalator-assets/<site>/<name>.jpg
 To update an image, replace the file (same name) and push — live sites pick it up with no republish.
 
 - `pavingcortez/` — Sleeping Ute Paving & Chip Seal Co. demo (pavingcortez.webalator.com)
+- `poolservice/` — Sonoran Blue Pool Co. demo, Chandler AZ (poolservice.webalator.com)
