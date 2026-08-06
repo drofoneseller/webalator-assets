@@ -1,0 +1,34 @@
+[
+  {
+    "generated_at": "2026-08-06T12:34:49.256898+00:00",
+    "provider": "fal",
+    "model": "flux-pro/v1.1-ultra",
+    "prompt": "Photograph of a beige plastic residential irrigation controller timer mounted on the interior wall of a suburban garage, cover door open showing the dial and blank unlabeled terminal strip with colored low-voltage wires neatly routed into conduit below. Clean drywall wall, soft daylight from an open garage door. Sharp focus on the controller. Realistic documentary photography, no people, no text, no numbers, no readable labels, no logos, no branding.",
+    "aspect_ratio": "16:9",
+    "seed": 2490414587,
+    "cost_usd_total": null,
+    "images": [
+      {
+        "file": "photograph-of-a-beige-plastic-residential-01.jpg",
+        "width": 2752,
+        "height": 1536,
+        "bytes": 579055,
+        "mime": "image/jpeg"
+      },
+      {
+        "file": "photograph-of-a-beige-plastic-residential-02.jpg",
+        "width": 2752,
+        "height": 1536,
+        "bytes": 493266,
+        "mime": "image/jpeg"
+      },
+      {
+        "file": "photograph-of-a-beige-plastic-residential-03.jpg",
+        "width": 2752,
+        "height": 1536,
+        "bytes": 474629,
+        "mime": "image/jpeg"
+      }
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "generated_at": "2026-08-06T12:35:11.988492+00:00",
+    "provider": "fal",
+    "model": "flux-pro/v1.1-ultra",
+    "prompt": "Photograph of a single middle-aged white man, short dark hair, clean shaven, kneeling on one knee on a green lawn beside an open irrigation valve box, holding a sprinkler head and looking at it. He wears a plain solid-colored short-sleeve work shirt with no badges, patches, embroidery or lettering, and plain work pants. No tattoos. Simple hand tools on the grass next to him. Suburban Arizona backyard, tan block wall and desert plants softly blurred behind, warm late-afternoon light. Natural candid documentary photography, exactly one person, no text, no logos, no branding anywhere.",
+    "aspect_ratio": "16:9",
+    "seed": 2318091523,
+    "cost_usd_total": null,
+    "images": [
+      {
+        "file": "photograph-of-a-single-middle-aged-white-man-01.jpg",
+        "width": 2752,
+        "height": 1536,
+        "bytes": 841431,
+        "mime": "image/jpeg"
+      },
+      {
+        "file": "photograph-of-a-single-middle-aged-white-man-02.jpg",
+        "width": 2752,
+        "height": 1536,
+        "bytes": 884175,
+        "mime": "image/jpeg"
+      },
+      {
+        "file": "photograph-of-a-single-middle-aged-white-man-03.jpg",
+        "width": 2752,
+        "height": 1536,
+        "bytes": 867367,
+        "mime": "image/jpeg"
+      },
+      {
+        "file": "photograph-of-a-single-middle-aged-white-man-04.jpg",
+        "width": 2752,
+        "height": 1536,
+        "bytes": 841860,
+        "mime": "image/jpeg"
+      }
+    ]
+  }
+]

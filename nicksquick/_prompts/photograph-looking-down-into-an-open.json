@@ -1,0 +1,34 @@
+[
+  {
+    "generated_at": "2026-08-06T12:34:40.434935+00:00",
+    "provider": "fal",
+    "model": "flux-pro/v1.1-ultra",
+    "prompt": "Photograph looking down into an open rectangular green plastic irrigation valve box set flush in the ground beside a lawn, lid removed and leaning on the grass. Inside, a manifold of three black anti-siphon irrigation valves with solenoids and colored low-voltage wire nuts on white PVC pipe. Clean, well-organized plumbing, damp soil, bright Arizona daylight. Sharp focus on the valves. Realistic documentary photography, no people, no text, no logos, no branding.",
+    "aspect_ratio": "16:9",
+    "seed": 662172155,
+    "cost_usd_total": null,
+    "images": [
+      {
+        "file": "photograph-looking-down-into-an-open-01.jpg",
+        "width": 2752,
+        "height": 1536,
+        "bytes": 784273,
+        "mime": "image/jpeg"
+      },
+      {
+        "file": "photograph-looking-down-into-an-open-02.jpg",
+        "width": 2752,
+        "height": 1536,
+        "bytes": 1291481,
+        "mime": "image/jpeg"
+      },
+      {
+        "file": "photograph-looking-down-into-an-open-03.jpg",
+        "width": 2752,
+        "height": 1536,
+        "bytes": 1083300,
+        "mime": "image/jpeg"
+      }
+    ]
+  }
+]

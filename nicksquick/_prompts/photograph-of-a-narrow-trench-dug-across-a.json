@@ -1,0 +1,34 @@
+[
+  {
+    "generated_at": "2026-08-06T12:34:54.307744+00:00",
+    "provider": "fal",
+    "model": "flux-pro/v1.1-ultra",
+    "prompt": "Photograph of a narrow trench dug across a green lawn exposing a white PVC irrigation lateral line about a foot down, a fresh slip-fix coupling installed on the pipe, wet dark soil piled neatly on a tarp beside the cut, water pooling in the bottom of the trench. Squares of cut sod stacked to one side ready to be replaced. Bright Arizona daylight, sharp focus on the repaired pipe. Realistic documentary job-site photography, no people, no text, no logos.",
+    "aspect_ratio": "16:9",
+    "seed": 3856031591,
+    "cost_usd_total": null,
+    "images": [
+      {
+        "file": "photograph-of-a-narrow-trench-dug-across-a-01.jpg",
+        "width": 2752,
+        "height": 1536,
+        "bytes": 1849281,
+        "mime": "image/jpeg"
+      },
+      {
+        "file": "photograph-of-a-narrow-trench-dug-across-a-02.jpg",
+        "width": 2752,
+        "height": 1536,
+        "bytes": 2241017,
+        "mime": "image/jpeg"
+      },
+      {
+        "file": "photograph-of-a-narrow-trench-dug-across-a-03.jpg",
+        "width": 2752,
+        "height": 1536,
+        "bytes": 1840580,
+        "mime": "image/jpeg"
+      }
+    ]
+  }
+]

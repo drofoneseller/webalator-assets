@@ -1,0 +1,34 @@
+[
+  {
+    "generated_at": "2026-08-06T12:34:38.627494+00:00",
+    "provider": "fal",
+    "model": "flux-pro/v1.1-ultra",
+    "prompt": "Close-up photograph of a black quarter-inch drip irrigation emitter line running through decorative brown gravel at the base of a healthy desert shrub, water beading and darkening the gravel where the emitter drips. Low camera angle near ground level. Arizona xeriscape planting bed, lantana and agave, tan stucco wall softly blurred behind, warm morning light. Realistic outdoor photography, no people, no text, no logos.",
+    "aspect_ratio": "16:9",
+    "seed": 3788444950,
+    "cost_usd_total": null,
+    "images": [
+      {
+        "file": "close-up-photograph-of-a-black-quarter-inch-01.jpg",
+        "width": 2752,
+        "height": 1536,
+        "bytes": 806755,
+        "mime": "image/jpeg"
+      },
+      {
+        "file": "close-up-photograph-of-a-black-quarter-inch-02.jpg",
+        "width": 2752,
+        "height": 1536,
+        "bytes": 728435,
+        "mime": "image/jpeg"
+      },
+      {
+        "file": "close-up-photograph-of-a-black-quarter-inch-03.jpg",
+        "width": 2752,
+        "height": 1536,
+        "bytes": 855432,
+        "mime": "image/jpeg"
+      }
+    ]
+  }
+]
