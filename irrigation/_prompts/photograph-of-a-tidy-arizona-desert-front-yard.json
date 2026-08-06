@@ -1,0 +1,34 @@
+[
+  {
+    "generated_at": "2026-08-06T12:38:16.203447+00:00",
+    "provider": "fal",
+    "model": "flux-pro/v1.1-ultra",
+    "prompt": "Photograph of a tidy Arizona desert front-yard planting bed on drip irrigation: decorative brown gravel, healthy lantana, red bougainvillea, agave and a small citrus tree, with thin black drip tubing running neatly between the plants and damp dark rings in the gravel where the emitters have watered. Warm early morning light, tan stucco wall behind. Realistic outdoor photography, no people, no text, no logos.",
+    "aspect_ratio": "16:9",
+    "seed": 2684915158,
+    "cost_usd_total": null,
+    "images": [
+      {
+        "file": "photograph-of-a-tidy-arizona-desert-front-yard-01.jpg",
+        "width": 2752,
+        "height": 1536,
+        "bytes": 1621056,
+        "mime": "image/jpeg"
+      },
+      {
+        "file": "photograph-of-a-tidy-arizona-desert-front-yard-02.jpg",
+        "width": 2752,
+        "height": 1536,
+        "bytes": 2103187,
+        "mime": "image/jpeg"
+      },
+      {
+        "file": "photograph-of-a-tidy-arizona-desert-front-yard-03.jpg",
+        "width": 2752,
+        "height": 1536,
+        "bytes": 1841084,
+        "mime": "image/jpeg"
+      }
+    ]
+  }
+]

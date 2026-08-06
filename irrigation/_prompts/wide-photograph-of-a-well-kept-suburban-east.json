@@ -1,0 +1,34 @@
+[
+  {
+    "generated_at": "2026-08-06T12:35:04.555599+00:00",
+    "provider": "fal",
+    "model": "flux-pro/v1.1-ultra",
+    "prompt": "Wide photograph of a well-kept suburban East Valley Arizona neighborhood in the golden hour: single-story tan and adobe stucco homes with tile roofs, tidy green front lawns edged with decorative gravel, palo verde and citrus trees, low block walls, and the rugged brown silhouette of desert mountains rising on the horizon under a clear blue sky. Realistic landscape photography, no people, no cars in foreground, no text, no logos, no readable signage.",
+    "aspect_ratio": "16:9",
+    "seed": 3655437055,
+    "cost_usd_total": null,
+    "images": [
+      {
+        "file": "wide-photograph-of-a-well-kept-suburban-east-01.jpg",
+        "width": 2752,
+        "height": 1536,
+        "bytes": 1278267,
+        "mime": "image/jpeg"
+      },
+      {
+        "file": "wide-photograph-of-a-well-kept-suburban-east-02.jpg",
+        "width": 2752,
+        "height": 1536,
+        "bytes": 1122239,
+        "mime": "image/jpeg"
+      },
+      {
+        "file": "wide-photograph-of-a-well-kept-suburban-east-03.jpg",
+        "width": 2752,
+        "height": 1536,
+        "bytes": 1274277,
+        "mime": "image/jpeg"
+      }
+    ]
+  }
+]

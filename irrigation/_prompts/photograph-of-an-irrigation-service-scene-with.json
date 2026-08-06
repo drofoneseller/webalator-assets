@@ -1,0 +1,34 @@
+[
+  {
+    "generated_at": "2026-08-06T16:53:44.847317+00:00",
+    "provider": "fal",
+    "model": "flux-pro/v1.1-ultra",
+    "prompt": "Photograph of an irrigation service scene with no people present: an open green valve box set in a green lawn with its lid leaning beside it, and a clean row of tools and replacement parts laid out on the grass next to it - pipe cutter, channel-lock pliers, a coil of black poly tubing, several new black sprinkler heads and a handful of brass fittings. Warm late-afternoon Arizona light, tan block wall and desert plants softly blurred behind. Realistic documentary job-site photography, absolutely no people, no hands, no text, no logos, no branding.",
+    "aspect_ratio": "16:9",
+    "seed": 987985053,
+    "cost_usd_total": null,
+    "images": [
+      {
+        "file": "photograph-of-an-irrigation-service-scene-with-01.jpg",
+        "width": 2752,
+        "height": 1536,
+        "bytes": 1282806,
+        "mime": "image/jpeg"
+      },
+      {
+        "file": "photograph-of-an-irrigation-service-scene-with-02.jpg",
+        "width": 2752,
+        "height": 1536,
+        "bytes": 954468,
+        "mime": "image/jpeg"
+      },
+      {
+        "file": "photograph-of-an-irrigation-service-scene-with-03.jpg",
+        "width": 2752,
+        "height": 1536,
+        "bytes": 970257,
+        "mime": "image/jpeg"
+      }
+    ]
+  }
+]

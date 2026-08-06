@@ -1,0 +1,34 @@
+[
+  {
+    "generated_at": "2026-08-06T12:38:06.800300+00:00",
+    "provider": "fal",
+    "model": "flux-pro/v1.1-ultra",
+    "prompt": "Photograph of a large healthy green Bermuda grass lawn in a suburban Arizona backyard being watered by a gear-drive rotor sprinkler throwing a single long stream of water in a wide arc across the turf, water droplets lit by late afternoon sun. Camera at knee height, wide view showing the tan block wall, citrus tree and gravel border at the edge of the lawn. Realistic outdoor photography, no people, no text, no logos.",
+    "aspect_ratio": "16:9",
+    "seed": 4114283163,
+    "cost_usd_total": null,
+    "images": [
+      {
+        "file": "photograph-of-a-large-healthy-green-bermuda-01.jpg",
+        "width": 2752,
+        "height": 1536,
+        "bytes": 1467180,
+        "mime": "image/jpeg"
+      },
+      {
+        "file": "photograph-of-a-large-healthy-green-bermuda-02.jpg",
+        "width": 2752,
+        "height": 1536,
+        "bytes": 1600607,
+        "mime": "image/jpeg"
+      },
+      {
+        "file": "photograph-of-a-large-healthy-green-bermuda-03.jpg",
+        "width": 2752,
+        "height": 1536,
+        "bytes": 1517100,
+        "mime": "image/jpeg"
+      }
+    ]
+  }
+]

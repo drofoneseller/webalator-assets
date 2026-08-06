@@ -1,0 +1,34 @@
+[
+  {
+    "generated_at": "2026-08-06T12:34:35.743940+00:00",
+    "provider": "fal",
+    "model": "flux-pro/v1.1-ultra",
+    "prompt": "Close-up photograph of a technician's hands, plain unbranded work gloves, replacing a black plastic pop-up spray sprinkler head that has been unscrewed from its riser in a green lawn. A small hole in the turf around the riser, dark soil and cut sod set to one side, a simple hand tool resting on the grass. Bright Arizona daylight, sharp macro focus on the sprinkler head and hands, softly blurred lawn behind. Realistic documentary job-site photography, no faces, no text, no logos, no branding.",
+    "aspect_ratio": "16:9",
+    "seed": 4062160813,
+    "cost_usd_total": null,
+    "images": [
+      {
+        "file": "close-up-photograph-of-a-technician-s-hands-01.jpg",
+        "width": 2752,
+        "height": 1536,
+        "bytes": 915726,
+        "mime": "image/jpeg"
+      },
+      {
+        "file": "close-up-photograph-of-a-technician-s-hands-02.jpg",
+        "width": 2752,
+        "height": 1536,
+        "bytes": 1137988,
+        "mime": "image/jpeg"
+      },
+      {
+        "file": "close-up-photograph-of-a-technician-s-hands-03.jpg",
+        "width": 2752,
+        "height": 1536,
+        "bytes": 1420551,
+        "mime": "image/jpeg"
+      }
+    ]
+  }
+]

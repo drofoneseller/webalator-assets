@@ -1,0 +1,41 @@
+[
+  {
+    "generated_at": "2026-08-06T12:33:35.800405+00:00",
+    "provider": "fal",
+    "model": "flux-pro/v1.1-ultra",
+    "prompt": "Ground-level photograph taken from just above the blades of grass, camera lens only a few inches off a dense healthy green lawn. Two black pop-up sprinkler heads risen out of the turf in the near and mid ground, spraying fine fan-shaped arcs of water across the frame, individual droplets catching warm low morning sunlight. Shallow depth of field with sharp focus on the nearest sprinkler head and water spray, softly blurred suburban Arizona backyard behind - desert landscaping, block wall, palo verde tree, bright clear sky. Wet grass blades glistening, small rainbow refraction in the mist. Realistic outdoor photography, natural light, no people.",
+    "aspect_ratio": "16:9",
+    "seed": 651065986,
+    "cost_usd_total": null,
+    "images": [
+      {
+        "file": "ground-level-photograph-taken-from-just-above-01.jpg",
+        "width": 2752,
+        "height": 1536,
+        "bytes": 1232802,
+        "mime": "image/jpeg"
+      },
+      {
+        "file": "ground-level-photograph-taken-from-just-above-02.jpg",
+        "width": 2752,
+        "height": 1536,
+        "bytes": 1119468,
+        "mime": "image/jpeg"
+      },
+      {
+        "file": "ground-level-photograph-taken-from-just-above-03.jpg",
+        "width": 2752,
+        "height": 1536,
+        "bytes": 1118324,
+        "mime": "image/jpeg"
+      },
+      {
+        "file": "ground-level-photograph-taken-from-just-above-04.jpg",
+        "width": 2752,
+        "height": 1536,
+        "bytes": 1461461,
+        "mime": "image/jpeg"
+      }
+    ]
+  }
+]

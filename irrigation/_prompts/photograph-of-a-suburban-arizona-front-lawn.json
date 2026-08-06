@@ -1,0 +1,34 @@
+[
+  {
+    "generated_at": "2026-08-06T12:38:14.272508+00:00",
+    "provider": "fal",
+    "model": "flux-pro/v1.1-ultra",
+    "prompt": "Photograph of a suburban Arizona front lawn showing a clear problem: a large dry brown dead patch of grass in the middle of an otherwise green healthy lawn, the classic sign of a broken or blocked sprinkler head. Bright harsh midday desert sun, tan stucco house and gravel border behind. Realistic documentary photography, no people, no text, no logos.",
+    "aspect_ratio": "16:9",
+    "seed": 377066308,
+    "cost_usd_total": null,
+    "images": [
+      {
+        "file": "photograph-of-a-suburban-arizona-front-lawn-01.jpg",
+        "width": 2752,
+        "height": 1536,
+        "bytes": 1597253,
+        "mime": "image/jpeg"
+      },
+      {
+        "file": "photograph-of-a-suburban-arizona-front-lawn-02.jpg",
+        "width": 2752,
+        "height": 1536,
+        "bytes": 1795092,
+        "mime": "image/jpeg"
+      },
+      {
+        "file": "photograph-of-a-suburban-arizona-front-lawn-03.jpg",
+        "width": 2752,
+        "height": 1536,
+        "bytes": 1625893,
+        "mime": "image/jpeg"
+      }
+    ]
+  }
+]

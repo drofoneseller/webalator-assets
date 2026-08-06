@@ -1,0 +1,34 @@
+[
+  {
+    "generated_at": "2026-08-06T12:34:56.267009+00:00",
+    "provider": "fal",
+    "model": "flux-pro/v1.1-ultra",
+    "prompt": "Photograph of a new residential irrigation system being installed in a bare dirt Arizona backyard: straight open trenches with white PVC mainline and lateral pipes laid in them, black pop-up sprinkler risers standing at intervals ready for backfill, purple primer and solvent weld joints visible. Tan block wall and stucco house softly blurred behind, bright desert daylight. Realistic documentary job-site photography, no people, no text, no logos, no branding.",
+    "aspect_ratio": "16:9",
+    "seed": 3925724850,
+    "cost_usd_total": null,
+    "images": [
+      {
+        "file": "photograph-of-a-new-residential-irrigation-01.jpg",
+        "width": 2752,
+        "height": 1536,
+        "bytes": 1034133,
+        "mime": "image/jpeg"
+      },
+      {
+        "file": "photograph-of-a-new-residential-irrigation-02.jpg",
+        "width": 2752,
+        "height": 1536,
+        "bytes": 864370,
+        "mime": "image/jpeg"
+      },
+      {
+        "file": "photograph-of-a-new-residential-irrigation-03.jpg",
+        "width": 2752,
+        "height": 1536,
+        "bytes": 755029,
+        "mime": "image/jpeg"
+      }
+    ]
+  }
+]
